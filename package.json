@@ -1,0 +1,21 @@
+{
+  "name": "base64-cloudify",
+  "version": "1.0.0",
+  "description": "a module to save base64 image to Google Cloud Storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base64",
+    "img",
+    "google",
+    "cloud",
+    "storage"
+  ],
+  "author": "Tania Nedavnia",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^1.6.0"
+  }
+}
