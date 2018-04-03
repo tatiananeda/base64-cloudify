@@ -1,6 +1,6 @@
 {
   "name": "base64-cloudify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a module to save base64 image to Google Cloud Storage",
   "main": "index.js",
   "scripts": {
